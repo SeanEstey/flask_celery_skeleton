@@ -1,0 +1,12 @@
+venv*
+*.pyc
+*.swp
+*.swo
+*.log
+*~
+/logs
+/.cache
+celerybeat-schedule
+celerybeat.pid
+*.pid
+db_auth.py
